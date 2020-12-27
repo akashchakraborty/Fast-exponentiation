@@ -13,7 +13,7 @@ def fast_exp(a, e, m):
 
 
 ### testing purposes only ####
-def main():
+def test():
     a = int(input("Enter a:"))
     e = int(input("Enter e:"))
     m = int(input("Enter m:"))
